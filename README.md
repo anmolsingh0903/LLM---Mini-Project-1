@@ -1,4 +1,4 @@
-# 🧠 Basics of NLP: Text Cleaning & Vectorization
+# Basics of NLP: Text Cleaning & Vectorization
 ## 📌 Project Overview
 
 This project focuses on the fundamentals of Natural Language Processing (NLP), specifically text preprocessing and vectorization techniques. It demonstrates how to clean, process, and convert textual data into numerical representations for machine learning models. The project also evaluates different approaches like Bag of Words, TF-IDF, and applies classification algorithms to analyze text.
